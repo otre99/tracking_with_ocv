@@ -1,5 +1,3 @@
-from ast import arg
-from typing import overload
 import cv2
 import json
 from ObjectTracker import MultiTracker, ObjectTracked
